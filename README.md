@@ -1,4 +1,4 @@
-# ReleaseCheck
+
 # 🚀 Release Checklist Tool
 
 A simple full-stack web application to help developers manage release processes using a checklist-based approach.
